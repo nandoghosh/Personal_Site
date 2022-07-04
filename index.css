@@ -16,7 +16,7 @@ h2 {
     color: orange;
 }
 
-section {
+.flexiable {
     display: flex;
     margin-bottom: 150px;
 
@@ -65,4 +65,8 @@ section {
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exp {
+    margin-left: 40px;
 }
